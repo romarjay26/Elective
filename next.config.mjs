@@ -2,11 +2,7 @@
 
 const nextConfig = {
   output: "export",
-
   basePath: "/Elective",
-
-  assetPrefix: "/Elective/",
-
   images: {
     unoptimized: true,
   },
