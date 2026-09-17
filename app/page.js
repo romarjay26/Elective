@@ -1,5 +1,3 @@
-import "./globals.css";
-
 export default function Home() {
   return (
     <main>
@@ -252,7 +250,7 @@ export default function Home() {
           </div>
 
           <p>
-            A glimpse of Balungao&apos;s landscapes,
+            A glimpse of Balungao's landscapes,
             natural surroundings, and peaceful atmosphere.
           </p>
         </div>
