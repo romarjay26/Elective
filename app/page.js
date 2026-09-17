@@ -252,7 +252,7 @@ export default function Home() {
           </div>
 
           <p>
-            A glimpse of Balungao's landscapes,
+            A glimpse of Balungao&apos;s landscapes,
             natural surroundings, and peaceful atmosphere.
           </p>
         </div>
